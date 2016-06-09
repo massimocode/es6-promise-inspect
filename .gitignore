@@ -3,3 +3,4 @@ typings/
 lib/**/*.js
 spec/**/*.js
 spec/**/*.d.ts
+npm-debug.log
