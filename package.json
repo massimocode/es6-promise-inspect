@@ -1,8 +1,8 @@
 {
   "name": "es6-promise-inspect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A utility for inspecting the state of ES6 promises",
-  "main": "inspect.js",
+  "main": "lib/inspect.js",
   "scripts": {
     "ts-compile": "node node_modules/mocha/bin/mocha spec --recursive",
     "test": "node node_modules/mocha/bin/mocha spec --recursive"
