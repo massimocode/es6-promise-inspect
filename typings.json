@@ -1,0 +1,11 @@
+{
+  "name": "es6-promise-inspect",
+  "dependencies": {},
+  "globalDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160319051630",
+    "chai": "registry:dt/chai#3.4.0+20160317120654",
+    "mocha": "registry:dt/mocha#2.2.5+20160317120654",
+    "node": "registry:dt/node#6.0.0+20160608110640",
+    "q": "registry:dt/q#0.0.0+20160417152954"
+  }
+}

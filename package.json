@@ -1,0 +1,32 @@
+{
+  "name": "es6-promise-inspect",
+  "version": "1.0.0",
+  "description": "A utility for inspecting the state of ES6 promises",
+  "main": "inspect.js",
+  "scripts": {
+    "ts-compile": "node node_modules/mocha/bin/mocha spec --recursive",
+    "test": "node node_modules/mocha/bin/mocha spec --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/massimocode/es6-promise-inspect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/massimocode/es6-promise-inspect/issues"
+  },
+  "homepage": "https://github.com/massimocode/es6-promise-inspect#readme",
+  "devDependencies": {
+    "bluebird": "^3.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "q": "^1.4.1",
+    "typescript": "^1.9.0-dev.20160609-1.0"
+  },
+  "typings": "lib/inspect.d.ts",
+  "files": [
+    "lib/",
+    "README.md"
+  ]
+}
