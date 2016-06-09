@@ -1,6 +1,6 @@
 {
   "name": "es6-promise-inspect",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A utility for inspecting the state of ES6 promises",
   "main": "lib/inspect.js",
   "scripts": {
